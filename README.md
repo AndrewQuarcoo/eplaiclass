@@ -1,6 +1,6 @@
 # EPL Match Prediction App 🏆⚽
 
-A machine learning application that predicts English Premier League (EPL) match outcomes using historical data from 1980-2023. The app provides win probabilities and predicted scores for matches between any two EPL teams.
+A machine learning application that predicts English Premier League (EPL) match outcomes using historical data from 2014-2023. The app provides win probabilities and predicted scores for matches between any two EPL teams.
 
 ## Features 🌟
 
