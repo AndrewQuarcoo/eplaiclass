@@ -8,7 +8,7 @@ A machine learning application that predicts English Premier League (EPL) match 
 - **Score Prediction**: Estimates the likely scoreline based on historical performance
 - **Win Probabilities**: Calculates probability percentages for each possible match outcome
 - **Interactive UI**: User-friendly Streamlit interface with team logos and EPL styling
-- **Historical Data**: Uses over 40 years of EPL match data for accurate predictions
+- **Historical Data**: Uses over 10 years of EPL match data for accurate predictions
 - **Real-time Updates**: Predictions are generated instantly when teams are selected
 
 ## Technology Stack 💻
@@ -46,6 +46,9 @@ A machine learning application that predicts English Premier League (EPL) match 
    ```bash
    streamlit run app.py
    ```
+
+OR
+Run the run.py
 
 2. Open your web browser and navigate to the provided local URL (typically http://localhost:8501)
 
